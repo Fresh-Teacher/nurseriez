@@ -72,7 +72,7 @@ img {
   #nav-drawer a {
     display: block;
     padding: 15px;
-    color: rgb(51, 51, 51);
+    color: rgb(255, 255, 255);
     text-decoration: none;
   }
   
@@ -84,7 +84,7 @@ img {
     z-index: 1;
     display: inline-block;
     padding: 10px;
-    color: #333;
+    color: #ffffff;
     cursor: pointer;
   }
   
@@ -366,7 +366,7 @@ z-index: 1; /* Make sure the icon is displayed on top of other elements */
         z-index: 1;
         display: inline-block;
         padding: 10px;
-        color: #333;
+        color: #ffffff;
         cursor: pointer;
         border: none; /* remove the rectangular border */
         transform: scale(1.5); /* Increase the size of the hamburger menu icon */
@@ -376,6 +376,7 @@ z-index: 1; /* Make sure the icon is displayed on top of other elements */
       #nav-drawer-trigger {
         background-color: transparent;
       }
+
 
 /*hide items*/
       .hidden {
