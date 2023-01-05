@@ -135,4 +135,3 @@ navDrawer.addEventListener("touchend", function(event) {
 function hideNav() {
   document.querySelector('#nav-drawer').classList.add('hidden');
 }
-
