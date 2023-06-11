@@ -422,6 +422,11 @@ z-index: 1; /* Make sure the icon is displayed on top of other elements */
         padding-top:210px;
       }
       
+      #load-more-button:hover{
+        background-color: #0056b3;
+        color:white;
+    }
+    
       
       
 

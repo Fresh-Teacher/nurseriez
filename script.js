@@ -45,7 +45,6 @@ function filterProducts(e) {
     });
 }
 
-// Get the navigation drawer and trigger button elements
 var navDrawer = document.getElementById("nav-drawer");
 var navDrawerTrigger = document.getElementById("nav-drawer-trigger");
 
